@@ -1,0 +1,28 @@
+{
+  "name": "M. Taufik Fajar Maulana",
+  "short_name": "Fajar",
+  "description": "M. Taufik Fajar Maulana - 21195040",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007bff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "assets/img/fiks802.png",
+      "sizes": "802x802",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "assets/img/fiks512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "scope": "/",
+  "manifest_version": 3,
+  "permissions": [
+    "notifications"
+  ]
+}
